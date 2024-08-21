@@ -73,6 +73,7 @@ ammo
 animal
 axe
 bandage
+battleground
 bike
 blessing
 boss
@@ -101,6 +102,8 @@ endgame
 enemy
 energy
 evening
+flak
+flaks
 frag
 friend
 frog
